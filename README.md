@@ -1,2 +1,0 @@
-# Imagenes_de_Calibracion_de_Imagenes
-Imagenes
